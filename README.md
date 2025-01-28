@@ -1,2 +1,2 @@
-# UFPB-Programacao-Estruturada
-Repositorio para a minha cadeira de programação Estruturada
+## UFPB - Programação Estruturada
+Repositório dedicado à disciplina de Programação Estruturada da Universidade Federal da Paraíba (UFPB).
